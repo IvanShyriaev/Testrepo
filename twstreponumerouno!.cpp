@@ -4,7 +4,7 @@
 using namespace std;
     /*matrix determinant calculator*/
 int main() {
-   cout<< "Print out your 3x3 matrix in order"<<endl;
+   cout<< "Print out your 3x3 matrix in order OR ELSE..."<<endl;
     signed int array1[3];
     signed int array2[3];
     signed int array3[3];
