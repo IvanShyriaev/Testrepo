@@ -31,7 +31,7 @@ signed int c1 = array1[2]*array2[0]*array3[1];
     signed int c2 = array1[1]*array2[0]*array3[2];
 
 
-        cout << "Here is determinant\n" << a1 + b1 + c1 - a2 - b2 - c2 << endl;
+        cout << "Here is determinant fucker\n" << a1 + b1 + c1 - a2 - b2 - c2 << endl;
     return 0;
 
 }
